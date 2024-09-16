@@ -3,7 +3,7 @@
 ![Profile Banner](https://images.unsplash.com/photo-1568584712581-d92fbdc5a7a4)
 
 ## 🚀 About Me
-Hello! I'm Fernando Spaes, a software engineer with 12 years of experience, passionate about technology and innovation. Specialized in **.NET**, **C#**, **JavaScript**, **React**, **Angular**, **Node.js**, **SQL Server**, **MongoDB**, **Azure**, **AWS**, **GCP**, **Jira**, **RabbitMQ**, and **Kafka**.
+Hello! I'm Fernando Spaes, a passionate software engineer with 12+ years of experience in developing innovative solutions. My expertise lies in **.NET**, **C#**, **JavaScript**, **React**, **Angular**, **Node.js**, **SQL Server**, **MongoDB**, **Cloud Platforms (Azure, AWS, GCP)**, and more. I thrive on solving complex problems and building scalable, high-performance applications.
 
 ---
 
@@ -11,15 +11,15 @@ Hello! I'm Fernando Spaes, a software engineer with 12 years of experience, pass
 
 | Skill                 | Experience  |
 |-----------------------|-------------|
-| .NET, C#              | 12 years    |
-| JavaScript, React     | 8 years     |
-| Angular               | 6 years     |
-| Node.js               | 7 years     |
-| SQL Server            | 10 years    |
-| MongoDB               | 6 years     |
-| Azure, AWS, GCP       | 5 years     |
-| Jira                  | 5 years     |
-| RabbitMQ, Kafka       | 4 years     |
+| ![.NET](https://img.icons8.com/color/20/000000/net-framework.png) .NET, C# | 12 years    |
+| ![JavaScript](https://img.icons8.com/color/20/000000/javascript.png) JavaScript, React | 8 years     |
+| ![Angular](https://img.icons8.com/color/20/000000/angularjs.png) Angular | 6 years     |
+| ![Node.js](https://img.icons8.com/color/20/000000/nodejs.png) Node.js | 7 years     |
+| ![SQL Server](https://img.icons8.com/color/20/000000/microsoft-sql-server.png) SQL Server | 10 years    |
+| ![MongoDB](https://img.icons8.com/color/20/000000/mongodb.png) MongoDB | 6 years     |
+| ![Cloud](https://img.icons8.com/color/20/000000/cloud.png) Azure, AWS, GCP | 5 years     |
+| ![Jira](https://img.icons8.com/color/20/000000/jira.png) Jira | 5 years     |
+| ![RabbitMQ](https://img.icons8.com/color/20/000000/rabbitmq.png) RabbitMQ, Kafka | 4 years     |
 
 ![Skills Chart](https://quickchart.io/chart?c={type:'pie',data:{labels:['.NET/C#','JavaScript/React','Angular','Node.js','SQL Server','MongoDB','Cloud','Jira','RabbitMQ/Kafka'],datasets:[{data:[12,8,6,7,10,6,5,5,4]}]}})
 
@@ -50,22 +50,20 @@ Hello! I'm Fernando Spaes, a software engineer with 12 years of experience, pass
 
 ### [Project X](https://github.com/ferspaes/projeto-x)
 - **Technologies:** .NET, Azure, SQL Server
-- **Description:** Development of an enterprise data management platform with high availability and scalability.
+- **Description:** Developed an enterprise data management platform with high availability and scalability, improving data processing speed by 30%.
 
 ### [Project Y](https://github.com/ferspaes/projeto-y)
 - **Technologies:** Node.js, React, AWS, MongoDB
-- **Description:** E-commerce application with microservices, payment integration, and responsive user interface.
+- **Description:** Built an e-commerce application with microservices, integrated payment systems, and a responsive user interface, handling over 1,000 transactions per second.
 
 ---
 
 ## 💬 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandospaes/)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:fernando.spaes@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferspaes/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/ferspaes)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:ferspaes@outlook.com)
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ferspaes&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferspaes&layout=compact&theme=radical)
-
-## 🌟 Let's Build the Future Together! 🌟
+![GitHub Stats
