@@ -11,24 +11,21 @@ Hello! I'm Fernando Spaes, a passionate software engineer with 12+ years of expe
 
 | Skill                 | Experience  |
 |-----------------------|-------------|
-| ![.NET](https://img.icons8.com/color/20/000000/net-framework.png) .NET, C# | 12 years    |
-| ![JavaScript](https://img.icons8.com/color/20/000000/javascript.png) JavaScript, React | 8 years     |
-| ![Angular](https://img.icons8.com/color/20/000000/angularjs.png) Angular | 6 years     |
-| ![Node.js](https://img.icons8.com/color/20/000000/nodejs.png) Node.js | 7 years     |
-| ![SQL Server](https://img.icons8.com/color/20/000000/microsoft-sql-server.png) SQL Server | 10 years    |
-| ![MongoDB](https://img.icons8.com/color/20/000000/mongodb.png) MongoDB | 6 years     |
-| ![Cloud](https://img.icons8.com/color/20/000000/cloud.png) Azure, AWS, GCP | 5 years     |
-| ![Jira](https://img.icons8.com/color/20/000000/jira.png) Jira | 5 years     |
-| ![RabbitMQ](https://img.icons8.com/color/20/000000/rabbitmq.png) RabbitMQ, Kafka | 4 years     |
-
-![Skills Chart](https://quickchart.io/chart?c={type:'pie',data:{labels:['.NET/C#','JavaScript/React','Angular','Node.js','SQL Server','MongoDB','Cloud','Jira','RabbitMQ/Kafka'],datasets:[{data:[12,8,6,7,10,6,5,5,4]}]}})
+| .NET, C#              | 12 years    |
+| JavaScript, React     | 8 years     |
+| Angular               | 6 years     |
+| Node.js               | 7 years     |
+| SQL Server            | 10 years    |
+| MongoDB               | 6 years     |
+| Azure, AWS, GCP       | 5 years     |
+| Jira                  | 5 years     |
+| RabbitMQ, Kafka       | 4 years     |
 
 ---
 
 ## ☁️ Cloud Experience
 
 ### Azure, AWS, GCP
-![Cloud Chart](https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Azure','AWS','GCP'],datasets:[{data:[40,35,25],backgroundColor:['#008AD7','#FF9900','#34A853']}]}})
 
 - **Azure:** Solution architecture, DevOps, CI/CD
 - **AWS:** Infrastructure as code, Managed services
@@ -39,7 +36,6 @@ Hello! I'm Fernando Spaes, a passionate software engineer with 12+ years of expe
 ## 📊 Database Experience
 
 ### SQL Server & MongoDB
-![Database Chart](https://quickchart.io/chart?c={type:'bar',data:{labels:['SQL Server','MongoDB'],datasets:[{label:'Years of Experience',data:[10,6],backgroundColor:['#FF6384','#36A2EB']}]}})
 
 - **SQL Server:** Data modeling, Stored procedures, Performance tuning
 - **MongoDB:** Schema design, Complex queries, Aggregations
@@ -48,11 +44,15 @@ Hello! I'm Fernando Spaes, a passionate software engineer with 12+ years of expe
 
 ## 🏆 Project Highlights
 
-### [Project X](https://github.com/ferspaes/projeto-x)
+### [.NETCore-RabbitMQ+MediatR-CleanArchitecture](https://github.com/ferspaes/.NET-Core-Microservices-RabbitMQ-MediatR-CleanArchitecture)
 - **Technologies:** .NET, Azure, SQL Server
 - **Description:** Developed an enterprise data management platform with high availability and scalability, improving data processing speed by 30%.
 
-### [Project Y](https://github.com/ferspaes/projeto-y)
+### [SQL AND PLSQL Basic To Pro](https://github.com/ferspaes/SQL_AND_PLSQL_BASIC_TO_PRO)
+- **Technologies:** Node.js, React, AWS, MongoDB
+- **Description:** Built an e-commerce application with microservices, integrated payment systems, and a responsive user interface, handling over 1,000 transactions per second.
+
+### [.NET Developer](https://github.com/ferspaes/.Net-Developer)
 - **Technologies:** Node.js, React, AWS, MongoDB
 - **Description:** Built an e-commerce application with microservices, integrated payment systems, and a responsive user interface, handling over 1,000 transactions per second.
 
@@ -66,4 +66,4 @@ Hello! I'm Fernando Spaes, a passionate software engineer with 12+ years of expe
 
 ---
 
-![GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ferspaes&show_icons=true&theme=dark)
