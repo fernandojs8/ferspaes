@@ -1,60 +1,84 @@
-# 🌟 Fernando Spaes - Software Engineer 🌟
+# 🌟 Fernando Spaes - Senior Software Engineer 🌟
 
 ![Profile Banner](https://images.unsplash.com/photo-1568584712581-d92fbdc5a7a4)
 
-## 🚀 About Me
-Hello! I'm Fernando Spaes, a passionate software engineer with 12+ years of experience in developing innovative solutions. My expertise lies in **.NET**, **C#**, **JavaScript**, **React**, **Angular**, **Node.js**, **SQL Server**, **MongoDB**, **Cloud Platforms (Azure, AWS, GCP)**, and more. I thrive on solving complex problems and building scalable, high-performance applications.
+## 👋 About Me
+Hello! I'm Fernando Spaes, a seasoned software engineer with over 12 years of experience in the tech industry. I specialize in creating innovative and scalable solutions using technologies like **.NET**, **C#**, **JavaScript**, **React**, **Angular**, and various **Cloud Platforms**. My passion lies in solving complex problems and architecting high-performance applications.
 
 ---
 
-## 🔧 Technical Skills
+## 🚀 Technical Expertise
 
-| Skill                 | Experience  |
-|-----------------------|-------------|
-| .NET, C#              | 12 years    |
-| JavaScript, React     | 8 years     |
-| Angular               | 6 years     |
-| Node.js               | 7 years     |
-| SQL Server            | 10 years    |
-| MongoDB               | 6 years     |
-| Azure, AWS, GCP       | 5 years     |
-| Jira                  | 5 years     |
-| RabbitMQ, Kafka       | 4 years     |
-
----
-
-## ☁️ Cloud Experience
-
-### Azure, AWS, GCP
-
-- **Azure:** Solution architecture, DevOps, CI/CD
-- **AWS:** Infrastructure as code, Managed services
-- **GCP:** Integration with AI and Machine Learning services
-
----
-
-## 📊 Database Experience
-
-### SQL Server & MongoDB
-
-- **SQL Server:** Data modeling, Stored procedures, Performance tuning
-- **MongoDB:** Schema design, Complex queries, Aggregations
+- **Languages & Frameworks:** 
+  - ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) 
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+  - ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+  - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+  
+- **Databases:**
+  - ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) 
+  - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+  
+- **Cloud Platforms:**
+  - ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+  - ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+  - ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+  
+- **Other Tools:**
+  - ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira-software&logoColor=white)
+  - ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+  - ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
 
 ---
 
-## 🏆 Project Highlights
+## 🛠️ Skills Snapshot
 
-### [.NETCore-RabbitMQ+MediatR-CleanArchitecture](https://github.com/ferspaes/.NET-Core-Microservices-RabbitMQ-MediatR-CleanArchitecture)
-- **Technologies:** .NET, Azure, SQL Server
-- **Description:** Developed an enterprise data management platform with high availability and scalability, improving data processing speed by 30%.
+- **Backend Development:** Expert in building robust back-end systems using .NET and Node.js.
+- **Frontend Development:** Proficient in creating interactive UIs with React and Angular.
+- **Cloud Services:** Experienced in deploying and managing applications on Azure, AWS, and GCP.
+- **Database Management:** Strong skills in designing and optimizing databases with SQL Server and MongoDB.
+- **DevOps & CI/CD:** Skilled in setting up CI/CD pipelines and utilizing tools like Docker and Kubernetes for containerization.
 
-### [SQL AND PLSQL Basic To Pro](https://github.com/ferspaes/SQL_AND_PLSQL_BASIC_TO_PRO)
-- **Technologies:** Node.js, React, AWS, MongoDB
-- **Description:** Built an e-commerce application with microservices, integrated payment systems, and a responsive user interface, handling over 1,000 transactions per second.
+---
 
-### [.NET Developer](https://github.com/ferspaes/.Net-Developer)
-- **Technologies:** Node.js, React, AWS, MongoDB
-- **Description:** Built an e-commerce application with microservices, integrated payment systems, and a responsive user interface, handling over 1,000 transactions per second.
+## 🏆 Featured Projects
+
+### [🌀 .NETCore-RabbitMQ+MediatR-CleanArchitecture](https://github.com/ferspaes/.NET-Core-Microservices-RabbitMQ-MediatR-CleanArchitecture)
+- **Technologies:** .NET, RabbitMQ, MediatR, Azure, SQL Server
+- **Highlights:** Developed an enterprise-grade data management platform with enhanced scalability and a 30% improvement in data processing speed.
+
+### [📊 SQL AND PLSQL Basic To Pro](https://github.com/ferspaes/SQL_AND_PLSQL_BASIC_TO_PRO)
+- **Technologies:** SQL Server, PL/SQL, Performance Tuning
+- **Highlights:** Built an advanced SQL/PLSQL knowledge base for optimizing complex queries and database performance tuning.
+
+### [💻 .NET Developer](https://github.com/ferspaes/.Net-Developer)
+- **Technologies:** .NET, Azure, CI/CD
+- **Highlights:** Developed a series of .NET projects demonstrating best practices in clean code, architecture patterns, and cloud integration.
+
+---
+
+## 📊 Technical Proficiency
+
+![Skills Radar](https://quickchart.io/chart?c={type:'radar',data:{labels:['Backend','.NET/C#','JavaScript/React','Angular','Node.js','SQL Server','MongoDB','Cloud'],datasets:[{label:'Expertise Level',data:[9,9,8,7,8,8,7,8]}]},options:{scales:{r:{beginAtZero:true,max:10}}}})
+
+---
+
+## 🌐 Cloud & DevOps
+
+- **Azure:** Proficient in building and deploying cloud-native applications, using services like Azure Functions, Azure DevOps, and ARM templates.
+- **AWS:** Experienced in leveraging AWS services like EC2, S3, Lambda, and CloudFormation for scalable infrastructure.
+- **GCP:** Skilled in integrating GCP's AI and ML services into applications.
+
+---
+
+## 📚 Continuous Learning
+
+I believe in lifelong learning and continuously seek to improve my skill set. Currently exploring:
+
+- **Machine Learning:** Implementing ML models with Python and TensorFlow.
+- **Blockchain:** Understanding decentralized applications and smart contracts.
+- **DevSecOps:** Integrating security into CI/CD pipelines.
 
 ---
 
