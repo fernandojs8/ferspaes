@@ -1,6 +1,6 @@
 # 🌟 Fernando JS Paes - Senior Software Engineer 🌟
 
-![Profile Banner](./images/profile-banner.jpg)
+![Profile Banner](./images/profile-banner.jpeg)
 
 ## 👋 About Me
 Hello! I'm Fernando JS Paes, a seasoned software engineer...
